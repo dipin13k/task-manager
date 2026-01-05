@@ -1,2 +1,2 @@
-# task-manager
-simple task manager 
+view the site live at : 
+https://dipin13k.github.io/task-manager/ 
